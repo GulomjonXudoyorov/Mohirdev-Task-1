@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mohirdev-Task-1", "Mohirdev-Task-1.csproj", "{3C54B9DB-57E0-4564-B717-809DC99C64EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C54B9DB-57E0-4564-B717-809DC99C64EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C54B9DB-57E0-4564-B717-809DC99C64EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C54B9DB-57E0-4564-B717-809DC99C64EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C54B9DB-57E0-4564-B717-809DC99C64EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8FDCF63-6C5B-4B31-89B9-145AFC5DDD9F}
+	EndGlobalSection
+EndGlobal
